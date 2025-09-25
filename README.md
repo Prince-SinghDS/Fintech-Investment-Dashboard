@@ -1,4 +1,5 @@
 # Fintech Dashboard Project
+![Dashboard Screenshot](Fintech Dashboard Image.png)
 
 ## Project Overview
 A modern, interactive fintech dashboard built with Tableau. Visualizes key financial metrics and user behavior, turning raw data into actionable insights for a business-centric audience.
