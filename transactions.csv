@@ -1,0 +1,11 @@
+transaction_id,user_id,fund_name,amount,tx_type,date
+1,1007,Gamma Balanced Fund,2839,Buy,2023-01-05
+2,1000,Gamma Balanced Fund,4974,Buy,2023-01-07
+3,1007,Alpha Growth Fund,3622,Buy,2023-01-04
+4,1001,Delta Index Fund,4880,Sell,2023-01-07
+5,1001,Gamma Balanced Fund,1964,Sell,2023-01-04
+6,1003,Alpha Growth Fund,2638,Buy,2023-01-04
+7,1008,Delta Index Fund,1814,Buy,2023-01-03
+8,1000,Gamma Balanced Fund,4250,Buy,2023-01-05
+9,1008,Beta Income Fund,1848,Sell,2023-01-02
+10,1004,Beta Income Fund,1694,Buy,2023-01-08
